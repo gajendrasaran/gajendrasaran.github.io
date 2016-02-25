@@ -163,4 +163,12 @@ table {
 .footertext{
 	float: left;
 	margin-left: 10%;
+	
+	
+	}
+	
+.footertext1{
+	float: right;
+	margin-right: 60%;
+	
 }
